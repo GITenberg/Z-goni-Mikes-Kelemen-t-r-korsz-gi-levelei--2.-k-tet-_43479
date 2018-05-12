@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '42234'
     url: http://www.gutenberg.org/2009/agents/42234
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43479#Z-goni-Mikes-Kelemen-t-r-korsz-gi-levelei--2.-k-tet-
 gutenberg_issued: '2013-08-15'
 gutenberg_type: Text
 identifiers:
